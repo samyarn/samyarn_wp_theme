@@ -1,2 +1,2 @@
-samyarn_wp_theme
+SAMYARN WORDPRESS THEME
 ================
